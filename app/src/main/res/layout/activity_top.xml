@@ -12,6 +12,7 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:text="Fragment 1"
+        android:textStyle="bold"
         tools:layout_editor_absoluteX="29dp"
         tools:layout_editor_absoluteY="16dp" />
 
@@ -25,6 +26,7 @@
         android:ems="10"
         android:inputType="textPersonName"
         android:text="Text 1"
+        android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
@@ -40,6 +42,7 @@
         android:ems="10"
         android:inputType="textPersonName"
         android:text="Text 2"
+        android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
@@ -51,6 +54,7 @@
         android:layout_height="46dp"
         android:ems="10"
         android:text="Text 3"
+        android:textStyle="bold"
         tools:layout_editor_absoluteX="16dp"
         tools:layout_editor_absoluteY="286dp" />
 
@@ -59,6 +63,7 @@
         android:layout_width="376dp"
         android:layout_height="51dp"
         android:text="Text 4"
+        android:textStyle="bold"
         tools:layout_editor_absoluteX="18dp"
         tools:layout_editor_absoluteY="363dp" />
 
@@ -69,6 +74,7 @@
         android:layout_marginTop="304dp"
         android:background="#567DF3"
         android:text="Next"
+        android:textStyle="bold"
         android:typeface="serif"
         android:visibility="visible"
         app:layout_constraintEnd_toEndOf="parent"
